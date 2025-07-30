@@ -12,7 +12,7 @@
 	"antiInbox": true,
 	"language": "en",
 	"notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-	"nickNameBot": "[ - ]巛𝚈𝙾⃢𝚄𝚁​᭄𝙽𝙸𝚂⃝𝙰𝙽☄︎",
+	"nickNameBot": "ROCKSTAR",
 	"prefix": "!",
 	"adminOnly": {
 		"enable": false,
@@ -22,7 +22,7 @@
 		"61550474712933"
 	],
 	"nisanBot": [
-		"9895209493866161"
+		"Group_id"
 	],
 	"notes": "YOUR GROUP ID or Tid ID SET NOW , BECAUSE BOT LOGS MESSAGE SENT YOUR GROUP",
 	"whiteListMode": {
